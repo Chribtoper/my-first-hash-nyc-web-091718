@@ -1,6 +1,5 @@
-def my_hash(hash)
-    my_hash = {"name" => "Alexis", "age" => 26, "location" => "LA"}
-
+def my_hash
+    my_hash = {"dog" => "Pitbull", "" => 26, "location" => "LA"}
 end
   # use the literal constructor to set the variable, my_hash, equal to a hash with key/value pairs of your choice.
 
